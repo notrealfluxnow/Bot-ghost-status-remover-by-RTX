@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 RG","✨I'm smart✨","join our server❤️","😁"];
+const statusMessages = ["👑 GETO","✨Hello!✨","join our server❤️","😁"];
 
 
 let currentIndex = 0;
